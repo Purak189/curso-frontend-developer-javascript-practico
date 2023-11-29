@@ -4,6 +4,7 @@ const burguerMenu = document.querySelector('.menu');
 const mobileMenu = document.querySelector('.mobile-menu');
 const menuCarritoIcon = document.querySelector('.navbar-shopping-cart');
 const aside = document.querySelector('.product-detail');
+const cardContainer = document.querySelector('.cards-container');
 
 
 menuEmail.addEventListener('click', () => {
@@ -31,7 +32,7 @@ productList.push({
 productList.push({
   name: 'Dron',
   price: 1400,
-  image: 'https://images.pexels.com/photos/210019/pexels-photo-210019.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940',
+  image: 'https://images.pexels.com/photos/19131319/pexels-photo-19131319/free-photo-of-drone-volando-de-cerca.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
 });
 productList.push({
   name: 'Mando PS4',
@@ -51,46 +52,44 @@ productList.push({
 productList.push({
   name: 'Iphone 12',
   price: 2400,
-  image: 'https://images.pexels.com/photos/461198/pexels-photo-461198.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
+  image: 'https://images.pexels.com/photos/788946/pexels-photo-788946.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
 });
 productList.push({
   name: 'Teclado Gamer',
   price: 350,
   image: 'https://images.pexels.com/photos/4792716/pexels-photo-4792716.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
 });
-/*
-      <div class="product-card">
-        <img src="https://images.pexels.com/photos/276517/pexels-photo-276517.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" alt="">
-        <div class="product-info">
-          <div>
-            <p>$120,00</p>
-            <p>Bike</p>
-          </div>
-          <figure>
-            <img src="./icons/bt_add_to_cart.svg" alt="">
-          </figure>
-        </div>
-      </div>
-*/
-for (product of productList){
-  const productCard = document.createElement('div');
-  productCard.classList.add('product-card');
 
-  const img = document.createElement('img');
-  img.setAttribute('src', product.image);
-
-  const productInfo = document.createElement('div');
-  productInfo.classList.add('product-info');
-
-  const productInfoDiv = document.createElement('div');
-
-  const productPrice = document.createElement('p');
-  productPrice.innerText = '$' + product.price;
-  const productName = document.createElement('p');
-  productName.innerText = product.name;
-
-  const productFigure = document.createElement('figure');
+function renderProducts(arr){
+  for (product of arr){
+    const productCard = document.createElement('div');
+    productCard.classList.add('product-card');
   
-  const productFigureImg = document.createElement('img');
-  img.setAttribute('src', './icons/bt_add_to_cart.svg');
+    const img = document.createElement('img');
+    img.setAttribute('src', product.image);
+  
+    const productInfo = document.createElement('div');
+    productInfo.classList.add('product-info');
+  
+    const productInfoDiv = document.createElement('div');
+  
+    const productPrice = document.createElement('p');
+    productPrice.innerText = '$' + product.price;
+    const productName = document.createElement('p');
+    productName.innerText = product.name;
+  
+    productInfoDiv.append(productPrice, productName);
+  
+    const productFigure = document.createElement('figure');
+    const productFigureImg = document.createElement('img');
+    productFigureImg.setAttribute('src', './icons/bt_add_to_cart.svg');
+  
+    productInfo.append(productInfoDiv,productFigure);
+    productFigure.appendChild(productFigureImg);
+  
+    productCard.append(img, productInfo);
+  
+    cardContainer.appendChild(productCard);
+  }
 }
+renderProducts(productList);
