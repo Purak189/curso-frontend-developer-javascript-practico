@@ -1,0 +1,278 @@
+[
+    {
+        "name": "Mourse Gamer Acer",
+        "price": 120,
+        "image": "https://images.pexels.com/photos/19012038/pexels-photo-19012038/free-photo-of-tecnologia-moderno-raton-equipo.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "categoria": "tecnologia"
+    },
+    {
+        "name": "Dron",
+        "price": 1400,
+        "image": "https://images.pexels.com/photos/19131319/pexels-photo-19131319/free-photo-of-drone-volando-de-cerca.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "categoria": "tecnologia"
+    },
+    {
+        "name": "Mando PS4",
+        "price": 450,
+        "image": "https://images.pexels.com/photos/1082810/pexels-photo-1082810.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "categoria": "tecnologia"
+    },
+    {
+        "name": "Teclado",
+        "price": 700,
+        "image": "https://images.pexels.com/photos/1714205/pexels-photo-1714205.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "categoria": "tecnologia"
+    },
+    {
+        "name": "Macbook Pro",
+        "price": 3400,
+        "image": "https://images.pexels.com/photos/577560/pexels-photo-577560.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "categoria": "tecnologia"
+    },
+    {
+        "name": "Iphone 12",
+        "price": 2400,
+        "image": "https://images.pexels.com/photos/788946/pexels-photo-788946.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "categoria": "tecnologia"
+    },
+    {
+        "name": "Teclado Gamer",
+        "price": 350,
+        "image": "https://images.pexels.com/photos/4792716/pexels-photo-4792716.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "categoria": "tecnologia"
+    },
+    {
+        "name": "Top De Rayas Gris Y Negro",
+        "price": 40,
+        "image": "https://images.pexels.com/photos/45982/pexels-photo-45982.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "categoria": "ropa"
+    },
+    {
+        "name": "Jean Hombre University",
+        "price": 100,
+        "image": "https://falabella.scene7.com/is/image/FalabellaPE/882314648_1?wid=240&hei=240&qlt=70&fmt=webp",
+        "categoria": "ropa"
+    },
+    {
+        "name": "Polo Manga Corta Hombre",
+        "price": 179,
+        "image": "https://falabella.scene7.com/is/image/FalabellaPE/882872204_1?wid=240&hei=240&qlt=70&fmt=webp",
+        "categoria": "ropa"
+    },
+    {
+        "name": "Pantalón Jean Hombre",
+        "price": 79,
+        "image": "https://falabella.scene7.com/is/image/FalabellaPE/881848484_1?wid=170&hei=170&qlt=70&fmt=webp",
+        "categoria": "ropa"
+    },
+    {
+        "name": "Robot Armable e Interactivo",
+        "price": 107,
+        "image": "https://falabella.scene7.com/is/image/FalabellaPE/882889420_2?wid=170&hei=170&qlt=70&fmt=webp",
+        "categoria": "juguetes"
+    },
+    {
+        "name": "Carro de Mario Kart",
+        "price": 159,
+        "image": "https://falabella.scene7.com/is/image/FalabellaPE/882561842_2?wid=170&hei=170&qlt=70&fmt=webp",
+        "categoria": "juguetes"
+    },
+    {
+        "name": "Casa de Muñeca LOL",
+        "price": 611,
+        "image": "https://falabella.scene7.com/is/image/FalabellaPE/882931464_2?wid=170&hei=170&qlt=70&fmt=webp",
+        "categoria": "juguetes"
+    },
+    {
+        "name": "Vehiculo Paw Patrol",
+        "price": 71.90,
+        "image": "https://falabella.scene7.com/is/image/FalabellaPE/882894354_02?wid=170&hei=170&qlt=70&fmt=webp",
+        "categoria": "juguetes"
+    },
+    {
+        "name": "Barbie Set de Tocador",
+        "price": 71.90,
+        "image": "https://falabella.scene7.com/is/image/FalabellaPE/882889403_2?wid=170&hei=170&qlt=70&fmt=webp",
+        "categoria": "juguetes"
+    },
+    {
+        "name": "Scooter para Niños 3R Scoop",
+        "price": 69.90,
+        "image": "https://falabella.scene7.com/is/image/FalabellaPE/881662380_2?wid=170&hei=170&qlt=70&fmt=webp",
+        "categoria": "juguetes"
+    },
+    {
+        "name": "Bebes Llorones Loving Care Lala",
+        "price": 99.90,
+        "image": "https://falabella.scene7.com/is/image/FalabellaPE/882946671_2?wid=170&hei=170&qlt=70&fmt=webp",
+        "categoria": "juguetes"
+    },
+    {
+        "name": "Pack x2 Lanzadores de Agua",
+        "price": 53.90,
+        "image": "https://falabella.scene7.com/is/image/FalabellaPE/882888521_2?wid=170&hei=170&qlt=70&fmt=webp",
+        "categoria": "juguetes"
+    },
+    {
+        "name": "Mesa noche Smart Led 3",
+        "price": 419.90,
+        "image": "https://falabella.scene7.com/is/image/FalabellaPE/gsc_125426668_4304978_2?wid=170&hei=170&qlt=70&fmt=webp",
+        "categoria": "muebles"
+    },
+    {
+        "name": "Juego de Comedor Lousiana",
+        "price": 999,
+        "image": "https://falabella.scene7.com/is/image/FalabellaPE/gsc_121034645_2900075_2?wid=170&hei=170&qlt=70&fmt=webp",
+        "categoria": "muebles"
+    },
+    {
+        "name": "Centro de Entretenimiento ",
+        "price": 399,
+        "image": "https://s7d2.scene7.com/is/image/TottusPE/42269781_1?wid=170&hei=170&qlt=70&fmt=webp",
+        "categoria": "muebles"
+    },
+    {
+        "name": "Sillon Reclinable 1",
+        "price": 549,
+        "image": "https://s7d2.scene7.com/is/image/TottusPE/43111177_2?wid=170&hei=170&qlt=70&fmt=webp",
+        "categoria": "muebles"
+    },
+    {
+        "name": "Sofá Cama Nick Gris",
+        "price": 449.90,
+        "image": "https://sodimac.scene7.com/is/image/SodimacPeru/8958351_02?wid=170&hei=170&qlt=70&fmt=webp",
+        "categoria": "muebles"
+    },
+    {
+        "name": "Mesa De Tv Irlanda ",
+        "price": 399,
+        "image": "https://falabella.scene7.com/is/image/FalabellaPE/883013091_2?wid=170&hei=170&qlt=70&fmt=webp",
+        "categoria": "muebles"
+    },
+    {
+        "name": "Juego de Comedor Jaíne",
+        "price": 879,
+        "image": "https://falabella.scene7.com/is/image/FalabellaPE/gsc_121041298_2902455_2?wid=170&hei=170&qlt=70&fmt=webp",
+        "categoria": "muebles"
+    },
+    {
+        "name": "Zapatos Casuales CALL IT",
+        "price": 149.90,
+        "image": "https://falabella.scene7.com/is/image/FalabellaPE/19842876_2?wid=170&hei=170&qlt=70&fmt=webp",
+        "categoria": "ropa"
+    },
+    {
+        "name": "Zapatos De Vestir Sereniti",
+        "price": 349.90,
+        "image": "https://falabella.scene7.com/is/image/FalabellaPE/19092248_2?wid=170&hei=170&qlt=70&fmt=webp",
+        "categoria": "ropa"
+    },
+    {
+        "name": "Zapatos casuales Bigstrut",
+        "price": 265.93,
+        "image": "https://falabella.scene7.com/is/image/FalabellaPE/19596279_2?wid=170&hei=170&qlt=70&fmt=webp",
+        "categoria": "ropa"
+    },
+    {
+        "name": "Pantalón Cargo Sybilla",
+        "price": 59.94,
+        "image": "https://falabella.scene7.com/is/image/FalabellaPE/882930160_2?wid=170&hei=170&qlt=70&fmt=webp",
+        "categoria": "ropa"
+    },
+    {
+        "name": "Polo Manga corta Sybilla",
+        "price": 29.90,
+        "image": "https://falabella.scene7.com/is/image/FalabellaPE/882841857_2?wid=170&hei=170&qlt=70&fmt=webp",
+        "categoria": "ropa"
+    },
+    {
+        "name": "Toalla De Baño Suave",
+        "price": 29.90,
+        "image": "https://falabella.scene7.com/is/image/FalabellaPE/gsc_122976496_3499601_2?wid=170&hei=170&qlt=70&fmt=webp",
+        "categoria": "ropa"
+    },
+    {
+        "name": "Vestido Corto Sybilla",
+        "price": 79.90,
+        "image": "https://falabella.scene7.com/is/image/FalabellaPE/882902700_2?wid=170&hei=170&qlt=70&fmt=webp",
+        "categoria": "ropa"
+    },
+    {
+        "name": "Blusa University Club",
+        "price": 59.90,
+        "image": "https://falabella.scene7.com/is/image/FalabellaPE/882918742_2?wid=170&hei=170&qlt=70&fmt=webp",
+        "categoria": "ropa"
+    },
+    {
+        "name": "Enterizo Casual Basement",
+        "price": 129.90,
+        "image": "https://falabella.scene7.com/is/image/FalabellaPE/882906374_2?wid=170&hei=170&qlt=70&fmt=webp",
+        "categoria": "ropa"
+    },
+    {
+        "name": "Zapatillas Reebok Royal",
+        "price": 119,
+        "image": "https://falabella.scene7.com/is/image/FalabellaPE/19897229_2?wid=170&hei=170&qlt=70&fmt=webp",
+        "categoria": "ropa"
+    },
+    {
+        "name": "Columna de Ducha Hidromasaje",
+        "price": 750,
+        "image": "https://falabella.scene7.com/is/image/FalabellaPE/gsc_123856318_3758303_2?wid=170&hei=170&qlt=70&fmt=webp",
+        "categoria": "otros"
+    },
+    {
+        "name": "WC Inodoro One Piece",
+        "price": 229,
+        "image": "https://sodimac.scene7.com/is/image/SodimacPeru/2069318_01?wid=170&hei=170&qlt=70&fmt=webp",
+        "categoria": "otros"
+    },
+    {
+        "name": "Mueble de Baño Vanitorio",
+        "price": 649.90,
+        "image": "https://sodimac.scene7.com/is/image/SodimacPeru/8746656_01?wid=170&hei=170&qlt=70&fmt=webp",
+        "categoria": "otros"
+    },
+    {
+        "name": "Espejo de Baño",
+        "price": 49.90,
+        "image": "https://sodimac.scene7.com/is/image/SodimacPeru/2758008_12?wid=170&hei=170&qlt=70&fmt=webp",
+        "categoria": "otros"
+    },
+    {
+        "name": "Ducha eléctrica",
+        "price": 479.90,
+        "image": "https://sodimac.scene7.com/is/image/SodimacPeru/2572036_02?wid=170&hei=170&qlt=70&fmt=webp",
+        "categoria": "otros"
+    },
+    {
+        "name": "Mueble de Baño",
+        "price": 319.90,
+        "image": "https://sodimac.scene7.com/is/image/SodimacPeru/3204693_12?wid=170&hei=170&qlt=70&fmt=webp",
+        "categoria": "otros"
+    },
+    {
+        "name": "Lavamano Baño",
+        "price": 349.90,
+        "image": "https://sodimac.scene7.com/is/image/SodimacPeru/8769699_12?wid=170&hei=170&qlt=70&fmt=webp",
+        "categoria": "otros"
+    },
+    {
+        "name": "Rapiducha Turbo III",
+        "price": 379,
+        "image": "https://sodimac.scene7.com/is/image/SodimacPeru/4182472_02?wid=170&hei=170&qlt=70&fmt=webp",
+        "categoria": "otros"
+    },
+    {
+        "name": "ALFOMBRA CON RELIEVE",
+        "price": 6699,
+        "image": "https://falabella.scene7.com/is/image/FalabellaPE/gsc_126702822_4658690_2?wid=170&hei=170&qlt=70&fmt=webp",
+        "categoria": "otros"
+    },
+    {
+        "name": "Alfombra Natural",
+        "price": 499.95,
+        "image": "https://falabella.scene7.com/is/image/FalabellaPE/882807380_2?wid=170&hei=170&qlt=70&fmt=webp",
+        "categoria": "otros"
+    }
+]
