@@ -45,25 +45,25 @@
         "name": "Top De Rayas Gris Y Negro",
         "price": 40,
         "image": "https://images.pexels.com/photos/45982/pexels-photo-45982.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-        "categoria": "ropa"
+        "categoria": "ropas"
     },
     {
         "name": "Jean Hombre University",
         "price": 100,
         "image": "https://falabella.scene7.com/is/image/FalabellaPE/882314648_1?wid=240&hei=240&qlt=70&fmt=webp",
-        "categoria": "ropa"
+        "categoria": "ropas"
     },
     {
         "name": "Polo Manga Corta Hombre",
         "price": 179,
         "image": "https://falabella.scene7.com/is/image/FalabellaPE/882872204_1?wid=240&hei=240&qlt=70&fmt=webp",
-        "categoria": "ropa"
+        "categoria": "ropas"
     },
     {
         "name": "Pantalón Jean Hombre",
         "price": 79,
         "image": "https://falabella.scene7.com/is/image/FalabellaPE/881848484_1?wid=170&hei=170&qlt=70&fmt=webp",
-        "categoria": "ropa"
+        "categoria": "ropas"
     },
     {
         "name": "Robot Armable e Interactivo",
@@ -159,61 +159,61 @@
         "name": "Zapatos Casuales CALL IT",
         "price": 149.90,
         "image": "https://falabella.scene7.com/is/image/FalabellaPE/19842876_2?wid=170&hei=170&qlt=70&fmt=webp",
-        "categoria": "ropa"
+        "categoria": "ropas"
     },
     {
         "name": "Zapatos De Vestir Sereniti",
         "price": 349.90,
         "image": "https://falabella.scene7.com/is/image/FalabellaPE/19092248_2?wid=170&hei=170&qlt=70&fmt=webp",
-        "categoria": "ropa"
+        "categoria": "ropas"
     },
     {
         "name": "Zapatos casuales Bigstrut",
         "price": 265.93,
         "image": "https://falabella.scene7.com/is/image/FalabellaPE/19596279_2?wid=170&hei=170&qlt=70&fmt=webp",
-        "categoria": "ropa"
+        "categoria": "ropas"
     },
     {
         "name": "Pantalón Cargo Sybilla",
         "price": 59.94,
         "image": "https://falabella.scene7.com/is/image/FalabellaPE/882930160_2?wid=170&hei=170&qlt=70&fmt=webp",
-        "categoria": "ropa"
+        "categoria": "ropas"
     },
     {
         "name": "Polo Manga corta Sybilla",
         "price": 29.90,
         "image": "https://falabella.scene7.com/is/image/FalabellaPE/882841857_2?wid=170&hei=170&qlt=70&fmt=webp",
-        "categoria": "ropa"
+        "categoria": "ropas"
     },
     {
         "name": "Toalla De Baño Suave",
         "price": 29.90,
         "image": "https://falabella.scene7.com/is/image/FalabellaPE/gsc_122976496_3499601_2?wid=170&hei=170&qlt=70&fmt=webp",
-        "categoria": "ropa"
+        "categoria": "ropas"
     },
     {
         "name": "Vestido Corto Sybilla",
         "price": 79.90,
         "image": "https://falabella.scene7.com/is/image/FalabellaPE/882902700_2?wid=170&hei=170&qlt=70&fmt=webp",
-        "categoria": "ropa"
+        "categoria": "ropas"
     },
     {
         "name": "Blusa University Club",
         "price": 59.90,
         "image": "https://falabella.scene7.com/is/image/FalabellaPE/882918742_2?wid=170&hei=170&qlt=70&fmt=webp",
-        "categoria": "ropa"
+        "categoria": "ropas"
     },
     {
         "name": "Enterizo Casual Basement",
         "price": 129.90,
         "image": "https://falabella.scene7.com/is/image/FalabellaPE/882906374_2?wid=170&hei=170&qlt=70&fmt=webp",
-        "categoria": "ropa"
+        "categoria": "ropas"
     },
     {
         "name": "Zapatillas Reebok Royal",
         "price": 119,
         "image": "https://falabella.scene7.com/is/image/FalabellaPE/19897229_2?wid=170&hei=170&qlt=70&fmt=webp",
-        "categoria": "ropa"
+        "categoria": "ropas"
     },
     {
         "name": "Columna de Ducha Hidromasaje",
